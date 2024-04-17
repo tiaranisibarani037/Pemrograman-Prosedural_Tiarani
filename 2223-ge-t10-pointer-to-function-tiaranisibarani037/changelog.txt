@@ -1,0 +1,14 @@
+Menyelesaikan persoalan yang diberikan dengan beberapa fungsi yang dibutuhkan pada libs nya.
+Memperbaiki kesalahan yang ada
+Memperbaiki kesalahan pada t10_01 yang memunculkan output yang tidak perlu
+terdapat kesalahan pengetikan untuk fungsi move student yang dipanggil
+mneghilangkan fungsi move student pada tugas 1
+memperbaiki solusi pada tugas bagian kedua
+Adanya beberapa output yang masih kurang pada test case kedua pada autograding
+Memperbaiki dorm.c dengan menambahkan kondisi tertentu
+t10_01 tidak memunculkan output yang sesuai
+Memperbaiki output yang belum sesuai pada t10_01 b
+Mengubah beberapa strcmp ke strstr
+mengubah loop for menjadi while
+Specifier yang salah pada print dorm
+mengisi semua header file dan source code yang disediakan

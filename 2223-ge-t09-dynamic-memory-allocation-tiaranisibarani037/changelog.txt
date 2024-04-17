@@ -1,0 +1,6 @@
+Menyelesaikan persoalan yang diberikan.
+Submit Makefile yang dihapus t09_00
+Selesaikan t09_03 dengan membuat perbandingan grade.
+Mengubah beberapa loopingan
+Mengubah basis dari malloc
+Mencoba submit ulang pada saat melanjutkan praktikum 

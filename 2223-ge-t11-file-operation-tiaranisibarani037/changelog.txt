@@ -1,0 +1,8 @@
+Menyelesaikan persoalan file operation dengan membuat fungsi file
+Mencoba menambahkan data ke repository dorm dan student
+untuk bagian t11_02 menggunakan fungsi fprintf dan a+ untuk menulis data pada akhir dan berada di file
+yang digunakan adalah bagian dari t10_03
+salah mengubah kembali repositories ke 5 baris
+mengembangkan solusi dari t11_01 ke t11_02
+memperbaharui assign student
+memperbaiki assign_student
