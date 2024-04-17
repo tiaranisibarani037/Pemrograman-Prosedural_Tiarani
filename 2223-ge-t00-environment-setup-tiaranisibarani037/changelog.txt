@@ -1,0 +1,2 @@
+menyelesaikan tugas t00_01 dengan mengcompile berkas t00 sesuai dengan petunjuk yang diberikan.
+menyelesaikan tugas t00_02 dengan mengganti kata Hello World dengan Aloha dan mengikuti petunjuk yang diberikan.

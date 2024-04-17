@@ -1,0 +1,8 @@
+Mencoba menyelesaikan T05 dengan fungsi Structure dan memanfaatkan fungsi string
+Mengubah fungsi break menjadi continue pada line 30
+Mengubah struktur agar menjadi lebih rapi dan lebih mudah untuk dibaca
+Menghilangkan variabel yang tidak dipakai
+Merecord video diskusi terkait T05
+Kendala dalam memikirkan solusi untuk lengkapnya.
+Menambahkan fungsi atau program untuk triple dash --- menghentikan loopingan.
+Menambahkan [%\n] untuk memuat kalimat dalam struct

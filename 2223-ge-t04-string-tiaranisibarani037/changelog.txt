@@ -1,0 +1,10 @@
+Mencoba menyelesaikan persoalan t04
+Mencoba menyelesaikan persoalan t04 dengan mempelajari cara membuat panjang l pada saat compiling
+memahami penggunaan fungsi wall pada compiler gcc agar program lebih sensitif pada kesalahan ataupun warning warning.
+Mengubah penggunaan loopingan for menjadi while
+Pada line ke-20 kami juga menambahkan -2 fungsi if dan strlennya untuk kemungkinan dari /r/n pada windows
+Pada readme tertera menggunakan 100 karakter akan tetapi karakter yang dibutuhkan pada test case mencapai 101 karakter.
+Pada line ke-15 kami membuat kondisinya >99 karena saat kami menginput dengan batas 101 pada test case terakhir output ada yang kurang dan tidak sesuai dengan yang diiginkan.
+kami juga memilih long int alih alih dengan char atau integer karena ingin membuka kemungkinan untuk jumlah karakter lain.
+Kami kembali menggunakan loopingan for
+mencoba tetap menggunakan loopingan while agar berbeda dengan pair lain

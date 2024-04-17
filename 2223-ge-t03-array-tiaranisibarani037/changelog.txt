@@ -1,0 +1,3 @@
+Menyelesaikan persoalan T03 dengan menggunakan arr dan beberapa loopingan
+dengan melakukan perbandingan menentukan nilai maksimum dan minimum dalam rata rata terendah dan tertinggi yang diminta.
+Mengubah spasi pada penulisan code variabel array yang digunakan, seperti : hasil [0] menjadi hasil[0].

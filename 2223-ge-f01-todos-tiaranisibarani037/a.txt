@@ -1,0 +1,78 @@
+"input": "
+todo-print-all
+---
+",
+"output": "
+1|08:30|Group Project|canceled
+2|10:00|Class: Fantastic Pempros|done
+3|13:30|Group Project|none
+",
+
+"input": "
+todo-add#15:00#Class: Pempros lab
+todo-add#17:10#SI v. IF semi match
+todo-print-all
+---
+",
+"output": "
+1|08:30|Group Project|canceled
+2|10:00|Class: Fantastic Pempros|done
+3|13:30|Group Project|none
+4|15:00|Class: Pempros lab|none
+5|17:10|SI v. IF semi match|none
+",
+
+"input": "
+todo-add#15:00#Class: Pempros lab
+todo-status#3#done
+todo-add#17:10#SI v. IF semi match
+todo-print-all
+---
+",
+"output": "
+1|08:30|Group Project|canceled
+2|10:00|Class: Fantastic Pempros|done
+3|13:30|Group Project|done
+4|15:00|Class: Pempros lab|none
+5|17:10|SI v. IF semi match|none
+",
+
+"input": "
+todo-add#15:00#Class: Pempros lab
+todo-status#3#done
+todo-add#17:10#SI v. IF semi match
+todo-status#2#canceled
+todo-print-all
+---
+",
+"output": "
+1|08:30|Group Project|canceled
+2|10:00|Class: Fantastic Pempros|done
+3|13:30|Group Project|done
+4|15:00|Class: Pempros lab|none
+5|17:10|SI v. IF semi match|none
+",
+
+"input": "
+todo-add#15:00#Class: Pempros lab
+todo-status#3#done
+todo-add#17:10#SI v. IF semi match
+todo-print-all
+todo-status#4#done
+todo-status#5#done
+todo-status#5#canceled
+todo-print-all
+---
+",
+"output": "
+1|08:30|Group Project|canceled
+2|10:00|Class: Fantastic Pempros|done
+3|13:30|Group Project|done
+4|15:00|Class: Pempros lab|none
+5|17:10|SI v. IF semi match|none
+1|08:30|Group Project|canceled
+2|10:00|Class: Fantastic Pempros|done
+3|13:30|Group Project|done
+4|15:00|Class: Pempros lab|done
+5|17:10|SI v. IF semi match|done
+",

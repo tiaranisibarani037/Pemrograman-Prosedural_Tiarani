@@ -1,0 +1,3 @@
+Mencoba menyelesaikan t08_01 dan t08_02.
+Declare grade yang dibuat tidak dimasukkan ke dalam loopingan for maka output yang keluar 8.00 dengan grade A.
+Mengubah for menjadi do while agar lebih efektif.

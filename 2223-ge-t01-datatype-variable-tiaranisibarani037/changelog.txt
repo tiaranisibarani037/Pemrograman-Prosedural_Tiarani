@@ -1,0 +1,4 @@
+Menyelesaikan persoalan T01
+Pada t01_01 Pair 7 menghadapi permasalahan dalam pendeclare an dan penempatan spasi juga pemilihan kode format.
+T02 menghadapi permasalahan typo dan huruf capital pada scanf
+t03 permasalahan yang dihadapi adalah penyimpanan nilai dan new line yang lupa diperhatikan.

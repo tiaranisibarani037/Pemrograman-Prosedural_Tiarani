@@ -1,0 +1,6 @@
+Mencoba menyelesaikan persoalan yang diberikan.
+Memunculkan grade D pada t07_00 dengan memodifikasi bagian grade_to_text
+Menampilkan calculate_performance dalam print enrollment dengan memanggil dari course.
+Memunculkan grade D pada t00.
+Menghapus fungsi grade_to_text dalam struct course.
+Memperbaiki alur dalam academic.C

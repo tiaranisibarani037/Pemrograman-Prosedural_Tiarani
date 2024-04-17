@@ -1,0 +1,7 @@
+1|08:30|Group Project|canceled
+
+2|10:00|Class: Fantastic Pempros|done
+
+3|13:30|Group Project|done
+4|15:00|Class: Pempros lab|none
+5|17:10|SI v. IF semi match|none

@@ -1,0 +1,3 @@
+Mencoba mengubah beberapa function dalam solusi.
+Mengubah jumlah fungsi menjadi 3 karena satu fungsi sebelumnya terlalu sederhana.
+Menambahkan identitas diri dan pair

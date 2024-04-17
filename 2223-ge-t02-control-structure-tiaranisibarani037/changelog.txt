@@ -1,0 +1,6 @@
+Menyelesaikan T01_01 dengan menggunakan branching.
+Penambahan input yang kurang
+Mengubah Mei menjadi May
+menyelesaikan t01_02 dengan memisalkannya dalam variabel dan menggunakan branching juga repetition
+memperbaiki spasi yang salah pada format rumus yang dimasukkan
+melakukan perubahan dalam penambahan beberapa komentar.
